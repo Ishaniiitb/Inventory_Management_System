@@ -15,11 +15,11 @@ Our entire application depends broadly on 6 files (3 .c source files, 1 .h heade
 	     
 	     It contains the following functions:-
 
-		i) info() :- This function is used to call the various functions which displays certain information about the information of the products stored in				the inventory at that moment.
+		i) info() :- This function is used to call the various functions which displays certain information about the information of the products stored in the inventory at that moment.
 
-		ii) edit() :- This function is used to call the various functions which are used to bring about changes in the information of the products stored				 in the inventory at that moment.
+		ii) edit() :- This function is used to call the various functions which are used to bring about changes in the information of the products stored in the inventory at that moment.
 
-		iii) main() :- It is the main function of the entire project and accepts inputs from the users(serial number of the choices) to run the execute the				  desired command of the user.
+		iii) main() :- It is the main function of the entire project and accepts inputs from the users(serial number of the choices) to run the execute the desired command of the user.
 
 2) edit.c :- This source file contains all the functions which are to be used to change the information about the products stored in the inventory at that moment.
 	     The various functions (and their uses) declared and defined in this source file are :-
