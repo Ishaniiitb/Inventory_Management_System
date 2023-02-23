@@ -8,7 +8,7 @@ This project has been designed by 6 students of the International Institute of I
 5) Ketan Ghungralekar IMT2022058 (Ketan.Ghungralekar@iiitb.ac.in)
 6) Krish Dave IMT2022043 (Krish.Dave@iiitb.ac.in)
 
-Our entire application depends broadly on 6 files (3 .c source files, 1 .h header file, 1 .txt text file and 1 'make' file) and consists of a total of 20 functionsbeing used(23 if we include all the functions int the main.c source file as well) :-
+Our entire application depends broadly on 6 files (3 .c source files, 1 .h header file, 1 .txt text file and 1 'make' file) and consists of a total of 20 functions being used(23 if we include all the functions int the main.c source file as well) :-
 
 1) main.c :- This is main body of the program, to use the product this code is to be executed. "main.c" uses functions which have been defined in "edit.c" or
 	     "info.c" (which we shall discuss later on). 
