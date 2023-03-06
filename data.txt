@@ -4,4 +4,5 @@
 4 Vim 30 200 Cleaning
 5 Tropicana 75 149 Drinks
 10 Uniball 10 300 Stationary
+9 Cornflakes 70 150 Food
 0
