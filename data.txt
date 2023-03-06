@@ -3,6 +3,5 @@
 3 M&Ms 40 100 Food
 4 Vim 30 200 Cleaning
 5 Tropicana 75 149 Drinks
-6 Mouse 399 99 Electronics
-8 Keyboard 800 200 Electronics
+10 Uniball 10 300 Stationary
 0
