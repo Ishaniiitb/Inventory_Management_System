@@ -6,7 +6,19 @@
 10 Uniball 10 300 Stationary
 9 Cornflakes 70 150 Food
 18 Raspberry_pi 5000 6 Electronics
-11 Harpic 15 500 Cleaning
+65 Harpic 100 103 Cleaning
+66 MrWhite 90 57 Cleaning
+67 Wheel 85 68 Cleaning
+68 Ariel 99 114 Cleaning
+69 Nirma 80 153 Cleaning
+70 Tide 120 72 Cleaning
+71 SurfExcel 90 78 Cleaning
+72 Henko 100 49 Cleaning
+73 Ghadi 110 78 Cleaning
+74 Domex 85 89 Cleaning
+75 Klinex 89 77 Cleaning
+76 Vanish 115 53 Cleaning
+77 Comfort 79 92 Cleaning
 12 Pepsi 60 30 Drinks
 13 Thums_up 65 40 Drinks
 0
