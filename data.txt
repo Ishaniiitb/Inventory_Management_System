@@ -6,4 +6,5 @@
 10 Uniball 10 300 Stationary
 9 Cornflakes 70 150 Food
 18 Raspberry_pi_model_3b 5000 6 Electronics
+11 Harpic 15 500 Cleaning
 0
