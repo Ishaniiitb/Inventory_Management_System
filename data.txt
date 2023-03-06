@@ -7,4 +7,5 @@
 9 Cornflakes 70 150 Food
 18 Raspberry_pi_model_3b 5000 6 Electronics
 11 Harpic 15 500 Cleaning
+12 Pepsi 60 30 Drinks
 0
