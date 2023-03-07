@@ -50,4 +50,10 @@
 28 Kitkat 20 300 Food
 29 Dairymilk 20 350 Food
 30 Pickle 60 250 Food
+31 Bisleri_(250ml) 20 600 Drinks 
+32 One_plus_10_pro 60,000 20 Electronics
+33 Limca_(2250ml) 100 40 Drinks
+33 Fivestar 20 50 Food
+34 Cheeselings 60 20 Food
+35 Dark_fantasy 50 40 Food
 0
