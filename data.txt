@@ -19,8 +19,17 @@
 75 Klinex 89 77 Cleaning
 76 Vanish 115 53 Cleaning
 77 Comfort 79 92 Cleaning
-12 Pepsi 60 30 Drinks
-13 Thums_up 65 40 Drinks
+50 Pepsi_(750_ml) 35 60 Drinks
+51 Thums_up_(750_ml) 35 40 Drinks
+52 Lassi_(250_ml) 20 50 Drinks 
+53 Sprite_(750_ml) 40 62 Drinks
+54 Maaza_(1.2_L) 67 68 Drinks
+55 Fanta_(750_ml) 37 75 Drinks
+56 Mirinda_(2_L) 125 85 Drinks
+57 7Up_(750_ml) 40 95 Drinks
+58 Coco_Cola_(2_L) 80 58 Drinks
+59 Limca_(750_ml) 39 35 Drinks
+60 Mountain_Dew_(750_ml) 36 25 Drinks
 90 Nvidia_rtx_4090 79000 5 Electronics
 91 Corsair_ram 25000 10 Electronics
 92 Intel_i9 35000 50 Electronics
@@ -31,14 +40,14 @@
 97 Logitech_mx 5600 10 Electronics
 98 HP_K500F 1150 15 Electronics
 99 Samsung_S23 86000 11 Electronics
-21 Waffy 25 500 Food
+21 Waffers 25 500 Food
 22 Maggie 40 360 Food
 23 Pringles 110 105 Food
 24 Oreo 20 400 Food
 25 Doritos 45 200 Food
 26 Chocopie 297 50 Food
-27 Amul_curd 20 400 Food
+27 Curd 20 400 Food
 28 Kitkat 20 300 Food
 29 Dairymilk 20 350 Food
-30 Bourborn 60 250 Food
+30 Pickle 60 250 Food
 0
