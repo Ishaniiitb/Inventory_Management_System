@@ -52,7 +52,6 @@
 30 Pickle 60 250 Food
 31 Bisleri 20 600 Drinks 
 32 One_plus_10 60000 20 Electronics
-33 Limca 100 40 Drinks
 33 Fivestar 20 50 Food
 34 Cheeselings 60 20 Food
 35 Dark_fantasy 50 40 Food
