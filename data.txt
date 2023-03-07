@@ -31,4 +31,14 @@
 97 Logitech_mx 5600 10 Electronics
 98 HP_K500F 1150 15 Electronics
 99 Samsung_S23 86000 11 Electronics
+21 Waffers 25 500 Food
+22 Maggie 40 360 Food
+23 Pringles 110 105 Food
+24 Oreo 20 400 Food
+25 Doritos 45 200 Food
+26 Chocopie 297 50 Food
+27 Curd 20 400 Food
+28 Kitkat 20 300 Food
+29 Dairymilk 20 350 Food
+30 Pickle 60 250 Food
 0
