@@ -33,7 +33,7 @@
 90 Nvidia_rtx_4090 79000 5 Electronics
 91 Corsair_ram 25000 10 Electronics
 92 Intel_i9 35000 50 Electronics
-93 Boat_Bassheads 1500 90 Electronice
+93 Boat_Bassheads 1500 90 Electronics
 94 Samsung_Odyssey 50000 7 Electronics
 95 Asus_strix 86000 10 Electronics
 96 Macbook_M2 99000 7 Electronics
