@@ -7,7 +7,7 @@ void info()			//This function calls all the functions from info.c which are resp
 	printf("\n");
 	printf("Choose the action you want to perform by entering its respective serial number\n");
 	printf("1) Search a product(ID) \n2) Search a product(Name) \n3) Display items in inventory \n4) Search products based on a filter : \n");
-	int c1;				//Accepting the choice of the user in variable c1
+	int c1,c2;				//Accepting the choice of the user in variable c1
 	scanf("%d", &c1);
 	switch(c1)
 	{
@@ -17,7 +17,7 @@ void info()			//This function calls all the functions from info.c which are resp
 		case 2: name_search();	//Calling name_search() from info.c
 			break;
 
-		case 3: int c2;
+		case 3:
 			printf("\n");	
 			printf("Display accoring to(sorted according to) : \n");
 			printf("1) Recently added \n2) ID of Product \n3)Name of Product \n4)Price of Product \n5) Quantity of Product available\n");
